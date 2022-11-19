@@ -1,0 +1,1 @@
+// we have a conference. The team's here consist in groups that are between 1 and 4 workers, and their will travel in taxis to get there. Each taxi can carry at most four passengers and all the members of a team should ride in the same taxi (but a taxi can take more than one team).
