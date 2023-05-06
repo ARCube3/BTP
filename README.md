@@ -5,7 +5,6 @@
 
 * DaSiamRPN
 * MIL
-* GOTURN (Need supplementary files)
 * CSRT
 * KCF
 * Boosting(Legacy API)
